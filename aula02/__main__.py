@@ -57,5 +57,5 @@ tabela = np.zeros((3,3),dtype=int)
     print()'''
 
 (np.ones((5,5)))
-print(np.eye(6))
+(np.eye(6))
 
